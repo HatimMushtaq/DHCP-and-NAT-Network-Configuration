@@ -69,5 +69,5 @@ Networking Student | Cisco Learner | Future Network Engineer
 *(Add your images here once uploaded)*  
 Example:
 ```markdown
-![Network Topology](images/topology.png)
-![DHCP Configuration](images/dhcp-config.png)
+![Network Topology](1.png)
+![DHCP Configuration](2.png)
