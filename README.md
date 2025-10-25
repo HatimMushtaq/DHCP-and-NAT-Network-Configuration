@@ -53,7 +53,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 **Hatim Mushtaq Khan**  
-Networking Student | Cisco Learner | Future Network Engineer  
+Networking Engineer | Cisco Learner  
 
 > ⚡ *“Connecting the world — one network at a time.”*
 
@@ -66,8 +66,7 @@ Networking Student | Cisco Learner | Future Network Engineer
 ---
 
 ## 📸 Project Screenshots
-*(Add your images here once uploaded)*  
-Example:
+
 ```markdown
 ![Network Topology](1.png)
 ![DHCP Configuration](2.png)
